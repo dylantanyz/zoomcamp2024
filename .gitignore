@@ -4,6 +4,8 @@
 # Data
 **/Data/*
 
+**/mage-zoomcamp/*
+
 # Local .terraform directories
 **/.terraform/*
 
