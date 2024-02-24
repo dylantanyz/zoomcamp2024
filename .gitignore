@@ -1,6 +1,6 @@
 # SSH Keys
 **/.ssh/*
-
+**/ny_taxi_postgres_data/*
 # Data
 **/Data/*
 
@@ -43,3 +43,4 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+
